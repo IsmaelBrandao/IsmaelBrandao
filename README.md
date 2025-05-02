@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Ismael
 
-<!--
-**IsmaelBrandao/IsmaelBrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Sobre Mim
 
-Here are some ideas to get you started:
+- 🎓 **Curso:** Análise e Desenvolvimento de Sistemas (2º semestre)
+- 🌍 **Localização:** Fortaleza - CE
+- 📧 **E-mail:** ismaelbrandao2003@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/ismael-brandao-906167300](https://www.linkedin.com/in/ismael-brandao-906167300/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias que estou aprendendo
+
+- 🌐 HTML e CSS
+- 📜 JavaScript (básico)
+- 🐍 Python (noções)
+- 🐘 PHP (iniciando)
+
+---
+
+## 🚀 Objetivo
+
+Busco oportunidades para aplicar meus conhecimentos, colaborar em projetos interessantes e continuar evoluindo na área de desenvolvimento web e software.
+
+---
