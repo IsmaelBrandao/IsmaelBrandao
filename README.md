@@ -23,3 +23,17 @@
 Busco oportunidades para aplicar meus conhecimentos, colaborar em projetos interessantes e continuar evoluindo na área de desenvolvimento web e software.
 
 ---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<!-- Estatísticas principais -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsmaelBrandao&show_icons=true&count_private=true&hide=issues&theme=tokyonight&border_radius=10&hide_border=false" />
+
+<!-- Linguagens mais usadas -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelBrandao&layout=compact&langs_count=6&theme=tokyonight&border_radius=10&hide_border=false" />
+
+</div>
+
+---
