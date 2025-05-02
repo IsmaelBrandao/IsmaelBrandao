@@ -20,7 +20,7 @@
 
 ## 🚀 Objetivo
 
-Busco oportunidades para aplicar meus conhecimentos, colaborar em projetos interessantes e continuar evoluindo na área de desenvolvimento web e software.
+- Busco oportunidades para aplicar meus conhecimentos, colaborar em projetos interessantes e continuar evoluindo na área de desenvolvimento web e software.
 
 ---
 
