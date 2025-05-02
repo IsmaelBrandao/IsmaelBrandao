@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+## 🚀 Tecnologias
 
 <div align="center">
 
