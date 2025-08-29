@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-- 🎓 **Curso:** Análise e Desenvolvimento de Sistemas (2º semestre)
+- 🎓 **Curso:** Análise e Desenvolvimento de Sistemas (3º semestre)
 - 🌍 **Localização:** Fortaleza - CE
 - 📧 **E-mail:** ismaelbrandao2003@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/ismael-brandao-906167300](https://www.linkedin.com/in/ismael-brandao-906167300/)
