@@ -1,29 +1,15 @@
 # 👋 Olá! Eu sou o Ismael
 
-## 🧑‍💻 Sobre Mim
+## Sobre Mim
 
-- 🎓 **Curso:** Análise e Desenvolvimento de Sistemas (3º semestre)
-- 🌍 **Localização:** Fortaleza - CE
-- 📧 **E-mail:** ismaelbrandao2003@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/ismael-brandao-906167300](https://www.linkedin.com/in/ismael-brandao-906167300/)
-
----
-
-## 🛠️ Tecnologias que estou aprendendo
-
-- 🌐 HTML e CSS
-- 📜 JavaScript (básico)
-- 🐍 Python (noções)
+- **Curso:** Análise e Desenvolvimento de Sistemas (4º semestre)
+- **Localização:** Fortaleza - CE
+- **E-mail:** ismaelbrandao2003@gmail.com
+- **LinkedIn:** [linkedin.com/in/ismael-brandao-906167300](https://www.linkedin.com/in/ismael-brandao-906167300/)
 
 ---
 
-## 🚀 Objetivo
-
-- Busco oportunidades para aplicar meus conhecimentos, colaborar em projetos interessantes e continuar evoluindo na área de desenvolvimento web e software.
-
----
-
-## 🚀 Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -38,7 +24,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
